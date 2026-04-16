@@ -19,3 +19,13 @@ El proyecto fue asignado por el profesor Guillermo Mendoza Hernández para su cl
 - Asignatura: Seguridad en el Desarrollo de Aplicaciones
 - Profesor: Guillermo Mendoza Hernández
 - Institución: Universidad Tecnológica San Juan del Río (UTSJR)
+
+## Cómo Ejecutar la Aplicación
+
+```ps1
+# Instalar dependencias
+npm i
+
+# Correr la página
+npm run dev
+```
